@@ -1,1 +1,1 @@
-# NewaApp
+# NewsApp
